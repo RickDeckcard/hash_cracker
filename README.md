@@ -1,6 +1,6 @@
 <h1 align="center"> :computer: Hash_cracker </h1>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RickDeckcard/hash_cracker/blob/hash_cracker_screenshot.png" width="350" title="screenshot about the tool">
+  <img src="https://github.com/RickDeckcard/hash_cracker/blob/main/hash_cracker_screenshot.png" width="350" title="screenshot about the tool">
 </p>
 
 
